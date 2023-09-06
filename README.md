@@ -24,5 +24,3 @@ Active full stack web developer. Very energetic and always trying to increase my
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
 ![Mui](https://img.shields.io/badge/MUI-007fff?logo=MUI&logoColor=white&style=for-the-badge)
 ![EsLint](https://img.shields.io/badge/EsLint-4B32C3?logo=ESLint&logoColor=white&style=for-the-badge)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=Prettier&logoColor=black&style=for-the-badge)
-![Husky](https://img.shields.io/badge/Husky-10b981?style=for-the-badge)
