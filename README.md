@@ -27,4 +27,3 @@ Active full stack web developer. Very energetic and always trying to increase my
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white)
 ![Mui](https://img.shields.io/badge/MUI-007fff?logo=MUI&logoColor=white)
-![EsLint](https://img.shields.io/badge/EsLint-4B32C3?logo=ESLint&logoColor=white)
