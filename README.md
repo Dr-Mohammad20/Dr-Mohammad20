@@ -12,16 +12,16 @@ Active full stack web developer. Very energetic and always trying to increase my
 
 ### Back-End
 
-![NodeJs](https://img.shields.io/badge/NodeJs-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge)
+![NodeJs](https://img.shields.io/badge/NodeJs-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white)
 
 ### Tools
-![Npm](https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
+![Npm](https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
 
 
 ### Other 
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
-![Mui](https://img.shields.io/badge/MUI-007fff?logo=MUI&logoColor=white&style=for-the-badge)
-![EsLint](https://img.shields.io/badge/EsLint-4B32C3?logo=ESLint&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white)
+![Mui](https://img.shields.io/badge/MUI-007fff?logo=MUI&logoColor=white)
+![EsLint](https://img.shields.io/badge/EsLint-4B32C3?logo=ESLint&logoColor=white)
