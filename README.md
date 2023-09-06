@@ -8,7 +8,7 @@ Active full stack web developer. Very energetic and always trying to increase my
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
-![NextJs](https://img.shields.io/badge/NextJs-000000?logo=Next.js&logoColor=black&style=for-the-badge)
+![NextJs](https://img.shields.io/badge/NextJs-000000?logo=Next.js&logoColor=white&style=for-the-badge)
 
 ### Back-End
 
