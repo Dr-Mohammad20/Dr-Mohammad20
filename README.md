@@ -2,11 +2,11 @@
 Active full stack web developer. Very energetic and always trying to increase my knowledge and skills in the field of web programming. With high motivation, I am aware of the latest technologies and methods of web development, and I also have high responsibility towards my work obligations. Interested in team work, to collaborate with my colleagues in interesting and challenging projects and to help improve websites and applications. Interested in learning new and updated technologies in the field of web development.
 
 ### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=black&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=black&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/SASS-1572B6?logo=SASS&logoColor=black&style=for-the-badge&color=#CC6699)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=black&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=black&style=flat-square)
+![CSS3](https://img.shields.io/badge/SASS-1572B6?logo=SASS&logoColor=black&style=plastice&color=#CC6699)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=black&style=social)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
 ![NextJs](https://img.shields.io/badge/NextJs-000000?logo=Next.js&logoColor=white&style=for-the-badge)
 
