@@ -16,7 +16,7 @@ Active full stack web developer. Very energetic and always trying to increase my
 ![Express](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white)
 
 ### DB
-![NodeJs](https://img.shields.io/badge/mysql?logo=nodedotjs&logoColor=white&color=4479A1)
+![NodeJs](https://img.shields.io/badge/mysql?logo=mysql&logoColor=white&color=4479A1)
 
 ### Tools
 ![Npm](https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=white)
